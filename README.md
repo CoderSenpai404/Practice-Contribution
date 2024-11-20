@@ -10,7 +10,3 @@ Good luck bro
 
 Good Luck 
 
-### Can't believe, my changes are merged. Thank you, brother😁
-
-# This is my first contribution. 
-
